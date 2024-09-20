@@ -1,7 +1,7 @@
 # AAI-NOITE-49939-NATANALEXANDRE
 AAI-NOITE-49939-NATAN ALEXANDRE DE JESUS BRAZ
 <hr>
-<h1>1 - Como criar uma documentação detalhada com o passo a passo para "como criar um projeto React Native do zero e subir no GitHub":</h1>
+<h1>1 - Documentação detalhada com o passo a passo para "como criar um projeto React Native do zero e subir no GitHub":</h1>
 
 <h2>// Comandos React Native:</h2>
   // Preparando o ambiente para o projeto com Expo (instalando o Expo através do Node.JS):
