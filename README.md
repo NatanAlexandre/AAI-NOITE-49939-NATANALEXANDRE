@@ -33,6 +33,36 @@ AAI-NOITE-49939-NATAN ALEXANDRE DE JESUS BRAZ
   // subir projeto na branch master
   git push -u origin master
 
+  // após esses passos é só iniciar seu projeto
+  npm run start
   <hr>
 
+<h1>2 - Como clonar o projeto da nossa aula e rodá-lo (O processo que seguimos no início de cada aula):</h1>
 
+// Comandos
+  // Previamente buscar no github a URL do repositório que quer clonar (estamos usando o link "https://github.com/GuilhermeCamargo744/aula-fecaf-noite-dog-ever-match.git" para ilustrar)
+  git clone https://github.com/GuilhermeCamargo744/aula-fecaf-noite-dog-ever-match.git
+
+  // para acessar o projeto use o change directory para a raiz do projeto
+  cd C://RAIZDOPROJETO
+
+  // Após estar na Raiz do projeto, mude para a branch desejada
+  git checkout branchDesejada
+  
+<hr>
+<h1>Extra</h1>
+Para atualizar o projeto react (com Expo) clonado com as atualizações feitas no github
+
+(Necessário commitar ou descartar mudanças feitas previamente no código)
+
+// Abra a Raiz do projeto e use o comando git
+  git pull
+
+// Para mudar para a branch para a branch nova
+  git checkout branchNova
+
+// Instalar as dependências do Node.JS
+  npm install
+
+// Rodar projeto
+  npm run start
